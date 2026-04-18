@@ -78,7 +78,7 @@ The system pipeline was baseline tested using the renowned RAGAS framework:
    ```
 3. **Set your API Key:** Create a `.env` file and add your Groq key:
    ```env
-   GROQ_API_KEY=your_groq_api_key_here
+   GROQ_API_KEY=
    ```
 4. **Run the App:**
    ```bash
